@@ -1,0 +1,5 @@
+
+.cloudbase/
+*/.vagrant
+base/.vagrant
+mul/os.box
